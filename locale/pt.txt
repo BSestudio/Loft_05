@@ -7,3 +7,11 @@ tour.description = Tour pelas locações
 
 ### Title
 tour.name = Loft 05 - B house 561
+
+## Media
+
+### Subtitle
+panorama_7A87763A_77B9_CBCD_41D2_35EE9B9FBF18.subtitle = Virtual Tour
+
+### Title
+panorama_7A87763A_77B9_CBCD_41D2_35EE9B9FBF18.label = Loft 05
