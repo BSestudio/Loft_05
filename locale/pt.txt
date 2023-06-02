@@ -1,0 +1,9 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Tour pelas locações
+
+### Title
+tour.name = Loft 05 - B house 561
