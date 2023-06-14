@@ -1,4 +1,7 @@
 {
+ "name": "Loft 05 - B house 561 - Sorocaba",
+ "theme_color": "#FFFFFF",
+ "description": "Tour pelas locações",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
- "name": "Loft 05 - B house 561",
- "description": "Tour pelas locações",
+ "background_color": "#FFFFFF",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "start_url": "index.htm"
 }
