@@ -1,0 +1,102 @@
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Bold.woff") format("woff"), url("fonts/Montserrat-Bold.eot") format("embedded-opentype"), url("fonts/Montserrat-Bold.ttf") format("truetype"), url("fonts/Montserrat-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat.woff") format("woff"), url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat-Regular.eot") format("embedded-opentype"), url("fonts/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Black.woff") format("woff"), url("fonts/Montserrat-Black.eot") format("embedded-opentype"), url("fonts/Montserrat-Black.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Light.woff") format("woff"), url("fonts/Montserrat-Light.eot") format("embedded-opentype"), url("fonts/Montserrat-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Otama.ep";
+   src: url("fonts/Otama-ep.woff") format("woff"), url("fonts/Otama-ep.eot") format("embedded-opentype"), url("fonts/Otama-ep.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Bold.woff") format("woff"), url("fonts/Antonio Bold.eot") format("embedded-opentype"), url("fonts/Antonio Bold.ttf") format("truetype"), url("fonts/Antonio Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Light.woff") format("woff"), url("fonts/Antonio Light.eot") format("embedded-opentype"), url("fonts/Antonio Light.ttf") format("truetype"), url("fonts/Antonio Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Regular.woff") format("woff"), url("fonts/Antonio Regular.eot") format("embedded-opentype"), url("fonts/Antonio Regular.ttf") format("truetype"), url("fonts/Antonio Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio-Bold.woff") format("woff"), url("fonts/Antonio-Bold.eot") format("embedded-opentype"), url("fonts/Antonio-Bold.ttf") format("truetype"), url("fonts/Antonio-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio-Light.woff") format("woff"), url("fonts/Antonio-Light.eot") format("embedded-opentype"), url("fonts/Antonio-Light.ttf") format("truetype"), url("fonts/Antonio-Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio-Regular.woff") format("woff"), url("fonts/Antonio-Regular.eot") format("embedded-opentype"), url("fonts/Antonio-Regular.ttf") format("truetype"), url("fonts/Antonio-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("fonts/Open Sans Semibold.woff") format("woff"), url("fonts/Open Sans Semibold.eot") format("embedded-opentype"), url("fonts/Open Sans Semibold.ttf") format("truetype"), url("fonts/Open Sans Semibold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("fonts/Open Sans Semibold Italic.woff") format("woff"), url("fonts/Open Sans Semibold Italic.eot") format("embedded-opentype"), url("fonts/Open Sans Semibold Italic.ttf") format("truetype"), url("fonts/Open Sans Semibold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("fonts/Open-Sans-Semibold.woff") format("woff"), url("fonts/Open-Sans-Semibold.eot") format("embedded-opentype"), url("fonts/Open-Sans-Semibold.ttf") format("truetype"), url("fonts/Open-Sans-Semibold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("fonts/Open-Sans-Semibold-Italic.woff") format("woff"), url("fonts/Open-Sans-Semibold-Italic.eot") format("embedded-opentype"), url("fonts/Open-Sans-Semibold-Italic.ttf") format("truetype"), url("fonts/Open-Sans-Semibold-Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
